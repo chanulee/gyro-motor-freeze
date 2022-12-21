@@ -1,4 +1,4 @@
-# GyroMotorStopSerial
+# GyroMotorFreeze
 - 2 servo motors assembled as a robot arm imitates human movement via 6 DoF Acc/Gyro sensor.  
 - The robot freezes when button pressed, back on move when button pressed again.  
 - Circuit Design: Check out [servobtn.fzz](https://github.com/chanulee/GyroMotorStopSerial/blob/main/servobtn.fzz).
