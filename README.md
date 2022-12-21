@@ -8,7 +8,8 @@
 - 6 DoF Acc/Gyro sensor input
 - Toggle switch
 ## Add-on Libraries
-- [Qwiic 6DoF LSM6DSO Breakout Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-6dof-lsm6dso-breakout-hookup-guide)
+- Qwiic 6DoF LSM6DSO Library [Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-6dof-lsm6dso-breakout-hookup-guide)
 ### Acknowledgement
-Physical Computing 2022-2    
+Physical Computing, Fall 2022     
 Advisor Prof. Sangwook Lee
+Dept. of Art & Technology, Sogang University
